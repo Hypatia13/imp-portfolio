@@ -1,0 +1,5 @@
+baseURL = "http://www.students.oamk.fi/~t6loer00/imp_portfolio"
+languageCode = "en-us"
+title = "IMP Portfolio"
+
+theme = "hugo-theme-docdock"

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IMP Portfolio</title>
+    <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/</link>
+    <description>Recent content in Posts on IMP Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2018 22:42:27 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab 1</title>
+      <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab1/</link>
+      <pubDate>Sun, 25 Feb 2018 22:42:27 +0200</pubDate>
+      
+      <guid>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab1/</guid>
+      <description>1. Definitions:  HTML - Hypertext Markup Language, a markup language which is a standard for creating web pages. CSS - Cascading Style Sheets, a language used for creating layout and a presentation of web pages. Javascript - a programming language that defines behaviour of web pages. HTTP - Hypertext Transfer Protocol, an application-layer protocol used for transferring data between web browsers and servers. HTML5 - the current version of the Hypertext Markup Language.</description>
+    </item>
+    
+    <item>
+      <title>Lab 2</title>
+      <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab2/</link>
+      <pubDate>Sun, 25 Feb 2018 22:42:32 +0200</pubDate>
+      
+      <guid>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab2/</guid>
+      <description>1. Definitions:  What is the purpose of the RWD? Why it is used? How things are done before RWD? What is the difference?
+Responsive Web Design technology helps to make web pages look good across all devices, such as desktops, tablets and mobile phones. It give a possibility to control the layout and reposition content according to device&amp;rsquo;s orientation and scale or hide necessary elements, such as images or menus.</description>
+    </item>
+    
+    <item>
+      <title>Lab 3</title>
+      <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab3/</link>
+      <pubDate>Sun, 25 Feb 2018 22:42:36 +0200</pubDate>
+      
+      <guid>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab3/</guid>
+      <description>1. Web Sockets Web Socket technology allows a bidirectional communication between a client and server, which allows both sides to push data at any given time. It should be used in the applications where low-latency is crucial, like real-time applications or online games.
+Link
+ What happens if you send a message: ”LOGO”?
+ HTML code for LOGO is returned  2. Local Storage A person list app redesigned according to Model–view–controller pattern and local storage is added, so the information is stored even if browser is reopened.</description>
+    </item>
+    
+    <item>
+      <title>Lab 4</title>
+      <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab4/</link>
+      <pubDate>Sun, 25 Feb 2018 22:42:39 +0200</pubDate>
+      
+      <guid>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab4/</guid>
+      <description>1. Very simple draw application A simple drawing application with canvas which tracks mouse movements and draws when the mouse button is released. The drawing is made using 2 canvasses, where the guideline is first visible on the &amp;ldquo;helper&amp;rdquo; canvas and then on the lower &amp;ldquo;drawing&amp;rdquo; canvas.
+Link
+2. Simple game A simple speed game made using canvas and Javascript with a time limit where the user has to click as many targets as possible.</description>
+    </item>
+    
+    <item>
+      <title>Lab 5</title>
+      <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab5/</link>
+      <pubDate>Sun, 25 Feb 2018 22:42:42 +0200</pubDate>
+      
+      <guid>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab5/</guid>
+      <description>1. Getting familiar with jQuery  What you can do with the jQuery?
+jQuery is the most widely used Javascript library that helps creating interactive websites and animations.
+ How it can help you as web developer?
+jQuery helps to perform a lot of daily web developer&amp;rsquo;s tasks with less code - creating animations, selecting DOM elements, developing AJAX applications. It also allows developers to create their own plug-ins.</description>
+    </item>
+    
+    <item>
+      <title>Lab 6</title>
+      <link>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab6/</link>
+      <pubDate>Sun, 25 Feb 2018 22:42:45 +0200</pubDate>
+      
+      <guid>http://www.students.oamk.fi/~t6loer00/imp_portfolio/posts/lab6/</guid>
+      <description>1. Flickr photo wall A web application which connects to Flickr API to search for the information requested by a user and loads information with AJAX without reloading the rest of the page. Link</description>
+    </item>
+    
+  </channel>
+</rss>

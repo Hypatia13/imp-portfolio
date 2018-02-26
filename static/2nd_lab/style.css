@@ -1,0 +1,43 @@
+body {
+    background-color: #e6e6e6;
+    font-size: 1em;
+    margin: 0 5% 1em;
+}
+
+header {
+    background-color: #9b9b9b;
+}
+
+h1 {
+
+    font-size: 2em;
+    margin: 0px;
+    padding: 0.1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0 0 0.8em;
+}
+
+h4 {
+    font-weight: normal;
+}
+
+main {
+    margin: 0.5em;
+}
+
+section {
+    padding: 0.5em 1em;
+    margin: 0 1em;
+}
+
+p {
+    font-size: 1em;
+    margin: 0.5em 0;
+}
+
+footer {
+    margin: 0.5em;
+}
